@@ -1,5 +1,15 @@
 # Scam the Server
 
+Group members:
+
+- Shaun Hin
+- Daniel Koh
+- Jon Lim
+- Valerie Lim
+- Jonah Yeo
+
+## Overall instructions
+
 Scam the Server is a 2-part capture the flag (CTF) challenge. The first part is a warm-up to the second part, which is the main challenge. The flag for the first part is the port number of the second part.
 
 To begin the challenge, download the files in this [folder](./Challenge).
